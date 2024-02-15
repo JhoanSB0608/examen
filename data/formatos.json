@@ -1,0 +1,22 @@
+[
+    {
+        "F01": {
+            "id": "F01",
+            "nombre": "BlueRay",
+            "NroCopias": 2,
+            "valorPrestamo": 5000
+        },
+        "F02": {
+            "id": "F01",
+            "nombre": "BlueRay",
+            "NroCopias": 5,
+            "valorPrestamo": 8000
+        }
+    },
+    {
+        "id": 1,
+        "Nombre": "CD",
+        "Nro_Copias": "200",
+        "ValorPrestamo": "6000"
+    }
+]
